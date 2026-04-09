@@ -1,0 +1,11 @@
+# User (Viewer) — Logged-In
+- I should be able to register with email and password.
+- I should be able to log in and log out.
+- I should be able to update my profile.
+- I should be able to like a video.
+- I should be able to dislike a video.
+- I should be able to comment on videos.
+- I should be able to reply to comments (threaded).
+- I should be able to save videos to Watch Later.
+- I should be able to see my watch history.
+- I should be able to subscribe/unsubscribe to a creator.
